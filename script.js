@@ -1,26 +1,26 @@
 const head = document.getElementById("head");
 setTimeout(function () {
-  head.innerText=("10");
+  head.innerText = "10";
   setTimeout(function () {
-    head.innerText=("9");
+    head.innerText = "9";
     setTimeout(function () {
-      head.innerText=("8");
+      head.innerText = "8";
       setTimeout(function () {
-        head.innerText=("7");
+        head.innerText = "7";
         setTimeout(function () {
-          head.innerText=("6");
+          head.innerText = "6";
           setTimeout(function () {
-            head.innerText=("5");
+            head.innerText = "5";
             setTimeout(function () {
-              head.innerText=("4");
+              head.innerText = "4";
               setTimeout(function () {
-                head.innerText=("3");
+                head.innerText = "3";
                 setTimeout(function () {
-                  head.innerText=("2");
+                  head.innerText = "2";
                   setTimeout(function () {
-                    head.innerText=("1");
+                    head.innerText = "1";
                     setTimeout(function () {
-                      head.innerText=("HAPPY INDEPENDENCE DAY");
+                      head.innerText = "THANK YOU VISIT MY WEBSITE";
                     }, 1000);
                   }, 1000);
                 }, 1000);
