@@ -1,4 +1,4 @@
-const head = document.getElementById("head");
+const head = document.getElementById("heade");
 setTimeout(function () {
   head.innerText = "10";
   setTimeout(function () {
